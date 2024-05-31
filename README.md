@@ -26,3 +26,30 @@ The project is structured to ensure clarity and maintainability. Here’s an ove
   - **index.js**: Entry point of the application.
   - **middleware/**: Middleware functions.
   - **others**
+
+### Installation
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/dev-ataullah/Alt-Query-Server.git
+   ```
+
+2. file derectory:
+
+   ```
+   cd Alt-Query-Server
+   ```
+
+3. Install All package:
+
+   ```
+   npm install
+   ```
+
+4. Then Start Project:
+
+   ```
+   nodemon index.js
+
+   ```
